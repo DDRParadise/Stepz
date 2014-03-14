@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, MainActivity!</string>
+    <string name="app_name">Stepz</string>
+	<string name="loading">Authenticating...</string>
+	<string name="initcount">0</string>
+	<string name="countLabel">Stepz count:</string>
+	<string name="start">Start</string>
+	<string name="stop">Stop</string>
+	<string name="post">Post</string>
+	<string name="reset">Reset</string>
+	
+</resources>
